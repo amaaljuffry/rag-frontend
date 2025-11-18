@@ -4,7 +4,7 @@
 PetAI Chat Assistant is a React-based frontend for interacting with a RAG (Retrieval-Augmented Generation) chatbot. It allows users to ask questions and get intelligent responses from the AI assistant in real-time.
 
 ## Live Demo
-[[PetAI Chat Assistant]](https://petai-frontend.netlify.app/)
+[[PetAI Chat Assistant]] (https://petai.ama24.my/)
 
 ---
 
