@@ -56,7 +56,6 @@ function App() {
       <div className="messages-container">
         {messages.length === 0 ? (
           <div className="empty-state">
-            <p>Start a conversation</p>
             <p>Ask me anything!</p>
           </div>
         ) : (
